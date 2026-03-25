@@ -6,7 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": mehul777army.aternos.me:47554
+    "ip": mehul777army.aternos.me
+  
     "port"47554
     "version": "",
     "try-creative": false
